@@ -1,4 +1,4 @@
-package az.atlacademy.leson09;
+package az.atlacademy.tasks.tapsiriqlar20taskloop;
 
 import java.util.Scanner;
 

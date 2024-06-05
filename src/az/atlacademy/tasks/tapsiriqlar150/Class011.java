@@ -1,6 +1,4 @@
-package az.atlacademy.tapsiriqlar150;
-
-import com.sun.org.apache.xerces.internal.impl.xs.SchemaNamespaceSupport;
+package az.atlacademy.tasks.tapsiriqlar150;
 
 import java.util.Scanner;
 

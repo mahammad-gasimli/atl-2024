@@ -1,4 +1,4 @@
-package az.atlacademy.tapsiriqlar150;
+package az.atlacademy.tasks.tapsiriqlar150;
 
 public class Class004 {
     public static void main(String[] args) {

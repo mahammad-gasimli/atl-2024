@@ -1,6 +1,5 @@
-package az.atlacademy.tapsiriqlar150;
+package az.atlacademy.tasks.tapsiriqlar150;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Class012 {
