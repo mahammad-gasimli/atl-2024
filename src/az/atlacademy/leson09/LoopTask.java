@@ -115,7 +115,7 @@ public class LoopTask {
                 " the number is a prime number. ");
         number = sc.nextInt();
         for (int i = 0; i < 10; i++) {
-            
+            System.out.println("hello");
         }
         
 
