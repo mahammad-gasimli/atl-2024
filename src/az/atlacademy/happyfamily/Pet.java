@@ -32,6 +32,11 @@ public class Pet {
         this.trickLevel = trickLevel;
     }
 
+    public Pet(String nickname, int trickLevel) {
+        this.nickname = nickname;
+        this.trickLevel = trickLevel;
+    }
+
     public void setSpecies(String species) {
         this.species = species;
     }
@@ -58,5 +63,15 @@ public class Pet {
 
     public void setTrickLevel(int trickLevel) {
         this.trickLevel = trickLevel;
+    }
+
+    @Override
+    public String toString() {
+        return "Pet{" +
+                "species='" + species + '\'' +
+                ", nickname='" + nickname + '\'' +
+                ", age=" + age +
+                ", trickLevel=" + trickLevel +
+                '}';
     }
 }

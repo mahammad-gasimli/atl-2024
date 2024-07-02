@@ -11,11 +11,11 @@ public class ArrayTask {
 
         massiv[0] = (int)(Math.random()*100);
         int minumum = massiv[0];
+        System.out.print(massiv[0] + " ");
         for (int i = 1; i < massiv.length; i++) {
             int random = (int)(Math.random()*100);
             if (random< minumum){
                 minumum = random;
-                ArrayTask.class.getClassLoader();
             }
             massiv[i] = random;
             System.out.print(massiv[i] + ", ");
