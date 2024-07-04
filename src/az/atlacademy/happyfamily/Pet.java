@@ -1,10 +1,15 @@
 package az.atlacademy.happyfamily;
 
+import java.time.LocalDate;
+
 public class Pet {
     private String species;
     private String nickname;
     private int age;
     private int trickLevel; //a whole number from 1 to 100
+
+    LocalDate createdAt;
+
 
     public String eat() {
         return "I am eating";
